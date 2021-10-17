@@ -871,7 +871,7 @@ dha.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 
                buttonsMessage = {
                contentText: `${menu}`,
-               footerText: '© ℭ𝔯𝔢𝔞𝔱𝔬𝔯 XrutZ BOT', imageMessage: imageMsg,
+               footerText: '© ℭ𝔯𝔢𝔞𝔱𝔬𝔯 RIDHO BOT', imageMessage: imageMsg,
                buttons: buttons,
                headerType: 4
 }
